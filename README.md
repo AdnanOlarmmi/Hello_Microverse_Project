@@ -2,7 +2,7 @@
 
 # Hello_Microverse
 
-(hello.png)
+[](hello.png)
 
 ## Built With
 
