@@ -23,32 +23,35 @@ I will be using them in all Microverse projects and most likely in my future job
 ## Getting Started
 
 To get a local copy up and running:
+To get a local copy of this project on your local machine up and running follow the steps below.
 
-1. Clone this repository or download the Zip folder:
+### Prerequisites
+
+- Basic html, css and medium Javascript know how.
+- Git installation
+- A text editor 
+- A terminal
+- A web browser to view output
+- An IDE e.g Visual studio code
+
+### Setup
+
+- Clone this repository or download the Zip folder:
 
 ```
-git clone https://github.com/AdnanOlarmmi/Hello_Microverse_Project.git
+git clone https://github.com/AdnanOlarmmi/Technopreneur.git
 ```
 
-2. Navigate to the location of the folder in your machine:
+- Navigate to the location of the folder in your machine:
 
 **``you@your-Pc-name:~$ cd <folder>``**
 
-## Usage
+### Usage
 
 - After Cloning this repo to your local machine
 - Open the `index.html` in your browser
 
-
-## Prerequisites
-
-Basic html and css knowledge
-
-## Setup
-
-An IDE e.g Visual Studio Code
-
-## Run Tests
+### Run Tests
 To track linter errors locally follow these steps:  
 
 Download all the dependencies run:
