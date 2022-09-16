@@ -34,12 +34,17 @@ git clone https://github.com/AdnanOlarmmi/Hello_Microverse_Project.git
 
 **``you@your-Pc-name:~$ cd <folder>``**
 
+## Usage
 
-### Prerequisites
+- After Cloning this repo to your local machine
+- Open the `index.html` in your browser
+
+
+## Prerequisites
 
 Basic html and css knowledge
 
-### Setup
+## Setup
 
 An IDE e.g Visual Studio Code
 
