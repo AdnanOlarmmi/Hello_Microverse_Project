@@ -74,8 +74,8 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Thanks to the Microverse team for the great curriculum.
-- Thanks to Code Reviewers for the insightful feedback.
-- A great thanks to My coding partners, morning session team, and standup team partners for their contributions.
+- Thanks to the Code Reviewer(s) for the insightful feedback.
+- A great thanks to My coding partner(s), morning session team, and standup team for their contributions.
 - Hat tip to anyone whose code was used.
 
 ## 📝 License
