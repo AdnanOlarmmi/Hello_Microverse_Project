@@ -39,7 +39,7 @@ To get a local copy of this project on your local machine up and running follow 
 - Clone this repository or download the Zip folder:
 
 ```
-git clone https://github.com/AdnanOlarmmi/Technopreneur.git
+git clone https://github.com/AdnanOlarmmi/Hello_Microverse_Project.git
 ```
 
 - Navigate to the location of the folder in your machine:
