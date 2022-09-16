@@ -1,17 +1,3 @@
-Project Name
-
-
-Built With
-Html
-Css
-linter
-node
-
-Getting Started
-This is a linter walkthrough project.
-
-
-
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
