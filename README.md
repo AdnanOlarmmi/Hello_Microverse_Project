@@ -1,19 +1,17 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-
-Hello_Microverse
-
+# Hello_Microverse
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
-## Live Demo (if available)
+## Additional Tools
 
-[Live Demo Link](https://livedemo.com)
+- WebHint
+- Stylelint
+- Node Packet Manager
 
 
 ## Getting Started
@@ -22,7 +20,9 @@ To get a local copy up and running:
 
 1. Clone this repository or download the Zip folder:
 
-**``git clone https://github.com/AdnanOlarmmi/Hello_Microverse_Project.git``**
+```
+git clone https://github.com/AdnanOlarmmi/Hello_Microverse_Project.git
+```
 
 2. Navigate to the location of the folder in your machine:
 
@@ -35,9 +35,23 @@ Basic html and css knowledge
 
 ### Setup
 
-An IDE
+An IDE e.g Visual Studio Code
 
+## Run Tests
+To track linter errors locally follow these steps:  
 
+Download all the dependencies run:
+```
+npm install
+```
+Track HTML linter errors run:
+```
+npx hint .
+```
+Track CSS linter errors run:
+```
+npx stylelint "**/*.{css,scss}"
+```
 
 ## Authors
 
