@@ -19,12 +19,6 @@ I will be using them in all Microverse projects and most likely in my future job
 - Stylelint
 - Node Packet Manager
 
-
-## Getting Started
-
-To get a local copy up and running:
-To get a local copy of this project on your local machine up and running follow the steps below.
-
 ### Prerequisites
 
 - Basic html, css and medium Javascript know how.
@@ -33,23 +27,6 @@ To get a local copy of this project on your local machine up and running follow 
 - A terminal
 - A web browser to view output
 - An IDE e.g Visual studio code
-
-### Setup
-
-- Clone this repository or download the Zip folder:
-
-```
-git clone https://github.com/AdnanOlarmmi/Hello_Microverse_Project.git
-```
-
-- Navigate to the location of the folder in your machine:
-
-**``you@your-Pc-name:~$ cd <folder>``**
-
-### Usage
-
-- After Cloning this repo to your local machine
-- Open the `index.html` in your browser
 
 ### Run Tests
 To track linter errors locally follow these steps:  
@@ -91,7 +68,3 @@ Give a ⭐️ if you like this project!
 - Thanks to the Code Reviewer(s) for the insightful feedback.
 - A great thanks to My coding partner(s), morning session team, and standup team for their contributions.
 - Hat tip to anyone whose code was used.
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
